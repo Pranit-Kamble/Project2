@@ -157,6 +157,9 @@ input[type=checkbox]{
     text-align: justify;
     font:  normal 18px Inter;
 }
+.fa-circle-arrow-left{
+    color: black;
+}
 .back{
     color: black;
     text-decoration: none;
