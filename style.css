@@ -160,6 +160,9 @@ input[type=checkbox]{
 .fa-circle-arrow-left{
     color: black;
 }
+.fa-xmark{
+    color: gray;
+}
 .back{
     color: black;
     text-decoration: none;
